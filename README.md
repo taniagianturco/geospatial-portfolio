@@ -37,8 +37,8 @@ as GeoTIFF.
 
 ## Data
 Sentinel-1A (2019-07-08) and Sentinel-1B (2019-07-02) 
-acquisitions. Data available via ESA Copernicus Open 
-Access Hub.
+acquisitions over Erzincan, Turkey. Data available via 
+ESA Copernicus Open Access Hub.
 
 ## Author
 Tania Gianturco
