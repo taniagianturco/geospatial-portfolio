@@ -42,4 +42,6 @@ ESA Copernicus Open Access Hub.
 
 ## Author
 Tania Gianturco
-[Linkedin] (https://www.linkedin.com/in/tania-gianturco/) | [Tableau] (https://public.tableau.com/app/profile/tania.gianturco/vizzes) | [Kaggle] (https://www.kaggle.com/taniabee/code)
+[LinkedIn](https://www.linkedin.com/in/tania-gianturco/) | 
+[Tableau Public](https://public.tableau.com/app/profile/tania.gianturco/vizzes) | 
+[Kaggle](https://www.kaggle.com/taniabee/discussion)
